@@ -3,16 +3,17 @@ package machine
 val cm = CoffeeMachine()
 
 fun main() {
-//    while (true) {
-        cm.printState()
-        print("Write action (buy, fill, take): ")
-        val action = readLine()!!
-        when (action) {
+    while (true) {
+//        cm.printState()
+        print("Write action (buy, fill, take, remaining, exit): ")
+        when (readLine()!!) {
             "buy" -> buyCoffe()
             "fill" -> fillMachine()
             "take" -> takeMoney()
+            "remaining" -> cm.printState()
+            "exit" -> break
         }
-//    }
+    }
     /*
     print("Write how many ml of water the coffee machine has: ")
     val waterAvailable = readLine()!!.toInt()
