@@ -356,33 +356,8 @@ files:
     }
   learner_created: true
 feedback_link: https://hyperskill.org/projects/67/stages/364/implement#comment
-status: Failed
+status: Solved
 feedback:
-  message: "Wrong answer in test #1\n\nThere should be two lines with &quot;milk&quot;,\
-    \ found: 7\n\nPlease find below the output of your program during this failed\
-    \ test.\nNote that the &#39;&gt;&#39; character indicates the beginning of the\
-    \ input line.\n\n---\n\nWrite action (buy, fill, take, remaining, exit): &gt;\
-    \ remaining\nThe coffee machine has:\n400 of water\n540 of milk\n120 of coffee\
-    \ beans\n9 of disposable cups\n550 of money\n\nWrite action (buy, fill, take,\
-    \ remaining, exit): &gt; buy\nWhat do you want to buy? 1 - espresso, 2 - latte,\
-    \ 3 - cappuccino: &gt; 2\nThe coffee machine has:\n50 of water\n465 of milk\n\
-    100 of coffee beans\n8 of disposable cups\n557 of money\n\nWrite action (buy,\
-    \ fill, take, remaining, exit): &gt; buy\nWhat do you want to buy? 1 - espresso,\
-    \ 2 - latte, 3 - cappuccino: &gt; 2\nThe coffee machine has:\n-300 of water\n\
-    390 of milk\n80 of coffee beans\n7 of disposable cups\n564 of money\n\nWrite action\
-    \ (buy, fill, take, remaining, exit): &gt; fill\nWrite how many ml of water do\
-    \ you want to add: \n&gt; 1000\nWrite how many ml of milk do you want to add:\
-    \ \n&gt; 0\nWrite how many grams of coffee beans do you want to add: \n&gt; 0\n\
-    Write how many disposable cups of coffee do you want to add: \n&gt; 0\nThe coffee\
-    \ machine has:\n700 of water\n390 of milk\n80 of coffee beans\n7 of disposable\
-    \ cups\n564 of money\n\nWrite action (buy, fill, take, remaining, exit): &gt;\
-    \ buy\nWhat do you want to buy? 1 - espresso, 2 - latte, 3 - cappuccino: &gt;\
-    \ 2\nThe coffee machine has:\n350 of water\n315 of milk\n60 of coffee beans\n\
-    6 of disposable cups\n571 of money\n\nWrite action (buy, fill, take, remaining,\
-    \ exit): &gt; take\nI gave you $571\n\nThe coffee machine has:\n350 of water\n\
-    315 of milk\n60 of coffee beans\n6 of disposable cups\n0 of money\n\nWrite action\
-    \ (buy, fill, take, remaining, exit): &gt; remaining\nThe coffee machine has:\n\
-    350 of water\n315 of milk\n60 of coffee beans\n6 of disposable cups\n0 of money\n\
-    \nWrite action (buy, fill, take, remaining, exit): &gt; exit"
-  time: Thu, 12 Aug 2021 16:03:42 UTC
+  message: Congratulations!
+  time: Fri, 13 Aug 2021 01:36:00 UTC
 record: -1
